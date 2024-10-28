@@ -78,6 +78,7 @@ jobs:
           ketryx-url: https://ketryx-alexd.ngrok.io
           project: KXPRJ2JVCHRGNTG9WCV6W875C9Q0Z79
           api-key: KXTK_0KQKD112QYH66JTJ64KFGRAD6ZCY45V76XAWWXHE9JHR9E0Q4GX3TZH24ZPSV32YAP1GBK5T51PAX
+          version: 1.0.0
 
           build-name: client-js
 
@@ -115,6 +116,7 @@ jobs:
           ketryx-url: https://ketryx-alexd.ngrok.io
           project: KXPRJ2JVCHRGNTG9WCV6W875C9Q0Z79
           api-key: KXTK_0KQKD112QYH66JTJ64KFGRAD6ZCY45V76XAWWXHE9JHR9E0Q4GX3TZH24ZPSV32YAP1GBK5T51PAX
+          version: 1.0.0
 
           build-name: server-python
 
@@ -129,6 +131,7 @@ jobs:
           ketryx-url: https://ketryx-alexd.ngrok.io
           project: KXPRJ2JVCHRGNTG9WCV6W875C9Q0Z79
           api-key: KXTK_0KQKD112QYH66JTJ64KFGRAD6ZCY45V76XAWWXHE9JHR9E0Q4GX3TZH24ZPSV32YAP1GBK5T51PAX
+          version: 1.0.0
 
           # It's important to assign a separate name to this build, so that it does not supersede
           # the other build that reports test results.
