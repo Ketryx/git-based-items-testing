@@ -76,7 +76,7 @@ jobs:
         uses: Ketryx/ketryx-github-action@v1
         with:
           ketryx-url: https://ketryx-alexd.ngrok.io
-          project: KXPRJ2JVCHRGNTG9WCV6W875C9Q0Z79
+          project: KXPRJ24TZ9C1H1E8JA9GV1PP4C75E1K
           api-key: KXTK_0KQKD112QYH66JTJ64KFGRAD6ZCY45V76XAWWXHE9JHR9E0Q4GX3TZH24ZPSV32YAP1GBK5T51PAX
 
           build-name: client-js
@@ -113,7 +113,7 @@ jobs:
         uses: Ketryx/ketryx-github-action@v1
         with:
           ketryx-url: https://ketryx-alexd.ngrok.io
-          project: KXPRJ2JVCHRGNTG9WCV6W875C9Q0Z79
+          project: KXPRJ24TZ9C1H1E8JA9GV1PP4C75E1K
           api-key: KXTK_0KQKD112QYH66JTJ64KFGRAD6ZCY45V76XAWWXHE9JHR9E0Q4GX3TZH24ZPSV32YAP1GBK5T51PAX
 
           build-name: server-python
@@ -127,7 +127,7 @@ jobs:
         uses: Ketryx/ketryx-github-action@v1
         with:
           ketryx-url: https://ketryx-alexd.ngrok.io
-          project: KXPRJ2JVCHRGNTG9WCV6W875C9Q0Z79
+          project: KXPRJ24TZ9C1H1E8JA9GV1PP4C75E1K
           api-key: KXTK_0KQKD112QYH66JTJ64KFGRAD6ZCY45V76XAWWXHE9JHR9E0Q4GX3TZH24ZPSV32YAP1GBK5T51PAX
 
           # It's important to assign a separate name to this build, so that it does not supersede
